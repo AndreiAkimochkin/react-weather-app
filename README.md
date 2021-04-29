@@ -1,1 +1,1 @@
-# u09-react-weather-app-AndreiAkimochkin
+# Weather-app
